@@ -1,4 +1,4 @@
-# ilk-pull-request
+# İlk Pull Request Nasıl Oluşturulur?
 Bu depo, sizlere Github'da ilk pull requestinizi göndermenize yardımcı olmak amacıyla oluşturulmuştur. 
 Becerilerinizi, projelerinizi ekleyerek burada kalıcı olarak kalmasını sağlayabilirsiniz. 
 Herkes bu depoya katkıda bulunabilir.
