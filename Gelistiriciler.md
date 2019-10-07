@@ -6,3 +6,4 @@
 * [Randil Tennakoon](https://github.com/randiltennakoon)
 * [İsmet Batansu](https://github.com/ismetbatansu)
 * [Guido Sanchez](https://github.com/Guido2k) 
+* [Tarannum Ara](https://github.com/giTan7)
