@@ -23,7 +23,7 @@ git checkout -b <yeni-branch-adı>
 
 4. Geliştiriciler klasörüne bilgilerinizi `<adın-soyadın>.md` dosyası oluşturarak kaydedin.
 
-Bilgilerinizi Geliştiriciler klasörüne ekledikten sonra, adınızı Geliştiriciler.md dosyasındaki Github profilinizin bağlantısıyla birlikte aşağıdaki biçimde ekleyin.
+Bilgilerinizi(Eğitim, Beceriler, Projeler vb.) Geliştiriciler klasörüne ekledikten sonra, adınızı Geliştiriciler.md dosyasındaki Github profilinizin bağlantısıyla birlikte aşağıdaki biçimde ekleyin.
 (Sadece Adınız Soyadınız ve Github Kullanıcı Adınızla değiştirin).
 Böylece herkesin katkılarınızdan haberi olmasını sağlayacağız.
 
