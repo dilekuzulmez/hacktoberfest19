@@ -7,3 +7,4 @@
 * [İsmet Batansu](https://github.com/ismetbatansu)
 * [Guido Sanchez](https://github.com/Guido2k) 
 * [Tarannum Ara](https://github.com/giTan7)
+* [Pınar Zaimoğlu](https://github.com/Pinarzaimoglu)
