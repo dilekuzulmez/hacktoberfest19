@@ -1,6 +1,6 @@
 # Pınar Zaimoğlu
 
---------
+----------
 #### Eğitim
 
 * Çanakkale Onsekiz Mart Üniversitesi-İngilizce Hazırlık
