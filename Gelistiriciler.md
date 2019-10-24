@@ -8,3 +8,4 @@
 * [Guido Sanchez](https://github.com/Guido2k) 
 * [Tarannum Ara](https://github.com/giTan7)
 * [Merve Doğdu](https://github.com/merveeedogdu)
+* [Pınar Zaimoğlu](https://github.com/Pinarzaimoglu)
